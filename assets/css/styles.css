@@ -1,0 +1,14 @@
+body {
+  background-color: #000000;
+}
+
+img {
+  width: 25%;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 50%;
+  }
+}
+
